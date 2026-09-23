@@ -45,7 +45,6 @@ flowchart TD
 
     subgraph Intelligence_Layer ["Intelligence & Reasoning (LLM)"]
         C1["Groq Cloud API (Llama 3.3 70B Versatile)"]
-        C2["Local Ollama (Qwen 2.5 7B / Llama 3)"]
         JSON1["ph_agent.json (Bea Persona)"]
         JSON2["id_agent.json (Mas Budi Persona)"]
     end
@@ -87,8 +86,7 @@ flowchart TD
 | Category | Library | Version / Model | Exact Role in the Application |
 | :--- | :--- | :--- | :--- |
 | **Speech-to-Text (ASR)** | **`faster-whisper`** | `small` (int8 quantized) | Transcribes input audio files locally on CPU using CTranslate2; conditioned with market-specific language tags (`tl` / `id`) and vocabulary prompts. |
-| **LLM Inference (Cloud)** | **`groq`** | `llama-3.3-70b-versatile` | Ultra-fast cloud inference for real-time conversational voice responses via `AsyncGroq`. |
-| **LLM Inference (Local)** | **`ollama`** | `qwen2.5:7b` (or `llama3.1`) | Local open-source model execution for multi-turn simulated dialogues between agent and customer personas. |
+| **LLM Inference (Cloud)** | **`groq`** | `gpt-oss:120b` | Ultra-fast cloud inference for real-time conversational voice responses via `AsyncGroq`. |
 | **Text-to-Speech (Neural)**| **`edge-tts`** | Microsoft Azure Neural | Synthesizes spoken audio using regional neural voices: `fil-PH-BlessicaNeural` (Female Taglish) and `id-ID-ArdiNeural` (Male Indonesian). |
 | **Text-to-Speech (Fallback)**| **`gTTS`** | Google Translate TTS | Lightweight secondary fallback TTS engine for offline or low-overhead audio generation. |
 | **Concurrency & Async** | **`asyncio`** | Python Built-in | Manages non-blocking pipeline execution (Groq API requests, Edge-TTS streaming, and ASR callbacks). |
