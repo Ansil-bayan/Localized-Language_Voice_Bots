@@ -4,6 +4,14 @@ This app is a **Localized Voice AI Prototype Suite** designed specifically for f
 
 Its primary purpose is to solve the critical failure of generic voice bots in Southeast Asia, where direct machine translation causes immediate customer hang-ups due to stiff phrasing, missing respect markers, and incorrect financial terminology.
 
+## DEMO VIDEO
+
+
+
+[![Watch the Video](https://github.com/user-attachments/assets/f8cd3ffa-314a-42bd-a809-6b839ec2fc7d)]([JAM_VIDEO_URL](https://jam.dev/c/ff3ce66c-4aab-4006-8898-3f6d7823a001))
+
+
+
 #### Core Capabilities:
 
 1. **Multi-Turn Call Simulation Engine (`simulate_voice_calls.py`)**:
