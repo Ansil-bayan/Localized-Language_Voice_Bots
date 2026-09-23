@@ -1,0 +1,4 @@
+Mas Budi (AI): Selamat siang Bapak Bambang, betul nggih ini dengan Bapak sendiri?
+Customer: Iyo, iki Pak Bambang. Denda iki ora masuk akal, panen telat amarga cuaca, tolong sambungke aku karo supervisor, ya.
+Mas Budi (AI): Baik Pak/Bu, Budi hubungkan langsung ke Tim Supervisor Restrukturisasi Kredit kami ya untuk pengajuan keringanan. Mohon ditunggu sebentar.
+[SYSTEM EVENT]: SIP_TRANSFER_TRIGGERED -> Transferred to Human Agent

@@ -1,0 +1,9 @@
+Bea (AI): Good day po! Am I speaking with Mr. Marco Cruz?
+Customer: Oo, ako po si Marco Cruz. Ano pong maitutulong ko?
+Bea (AI): Magandang araw po, Marco! Gusto ko po sanang i-share ang bagong bancassurance package namin—may comprehensive na coverage, flexible premium, at optional rider para sa extra protection. Pwede po ba kayong maglaan ng ilang minuto para pag-usapan kung paano ito makakatulong sa inyong financial goals?
+Customer: Sure po, interested ako. Puwede po bang malaman kung magkano ang monthly premium?
+Bea (AI): Po, ang basic plan ay ₱4,500 per month, at may optional rider na ₱800 extra kung gusto ninyo ng dagdag na protection.
+Customer: Okay po, medyo mataas yun para sa budget ko. May mas mababang premium option ba tayo?
+Bea (AI): Naiintindihan ko po ang concern ninyo sa budget; isipin po natin na ₱4,500 lang ang daily coffee habit na maaaring ma-redirect para sa proteksyon ng pamilya. Kung mababa po ang premium at lumala ang risk ng lapse, mas mainam po na mag‑schedule tayo ng appointment sa licensed Financial Advisor ng branch ninyo para ma‑customize ang plan ayon sa budget po ninyo.
+Customer: Sige po, interesado ako—mag‑schedule na lang po tayo ng meeting with the financial advisor.
+Bea (AI): Sige po, itatakda ko po ang appointment ninyo sa licensed Financial Advisor ng inyong branch sa **Lunes, September 30, 2026, alas‑2:00 pm**; ipapadala ko po agad ang confirmation sa inyong email. Maraming salamat po!

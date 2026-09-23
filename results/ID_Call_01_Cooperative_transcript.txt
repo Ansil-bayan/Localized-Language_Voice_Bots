@@ -1,0 +1,9 @@
+Mas Budi (AI): Selamat pagi, bisa bicara dengan Mas Rizky?
+Customer: Selamat pagi, Mas Budi, ini Rizky. Baik, saya akan transfer angsuran Rp 850.000 lewat BCA Virtual Account dalam dua hari ke depan.
+Mas Budi (AI): Terima kasih, Mas Rizky. Kami tunggu transfernya via VA BCA dalam dua hari ke depan, ya. Jika ada kendala, silakan hubungi kami kembali.
+Customer: Siap, Mas Budi. Terima kasih, akan saya lakukan secepatnya.
+Mas Budi (AI): Sama-sama, Mas Rizky. Semoga prosesnya lancar. Selamat beraktivitas!
+Customer: Terima kasih, Mas Budi. Selamat beraktivitas juga!
+Mas Budi (AI): Terima kasih, Mas Rizky. Selamat melanjutkan hari!
+Customer: Sama-sama, Mas Budi. Selamat melanjutkan hari!
+Mas Budi (AI): Sama-sama, Mas Rizky. Semoga hari Anda menyenangkan!

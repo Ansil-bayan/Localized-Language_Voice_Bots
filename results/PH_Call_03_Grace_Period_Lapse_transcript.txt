@@ -1,0 +1,9 @@
+Bea (AI): Magandang araw po, Mrs. Elena Ramos! Si Bea po ito mula sa Bancassurance Division ng inyong bank branch. Kumusta po kayo?
+Customer: Magandang araw po, Bea. Naka-expire po yung debit card ko kaya hindi na-deduct yung premium; pwede po bang malaman kung ilang araw pa ang grace period, at magbabayad na lang po ako through online banking ngayon?
+Bea (AI): May grace period po tayo na 15 araw mula sa petsa ng expiration; pwede po kayong magbayad through online banking ngayon para maiwasan po ang lapse ng policy. Kung kailangan po ninyo ng assistance sa payment setup, ipapasa ko po kayo sa aming licensed Financial Advisor sa branch ninyo.
+Customer: Salamat po, Bea. Sige, gagawin ko na agad ang online payment—paki-connect po ako sa financial advisor para matulungan sa setup.
+Bea (AI): Sige po, i-connect ko po kayo agad sa aming licensed Financial Advisor sa branch ninyo; sandali lang po.
+Customer: Maraming salamat po, Bea. Hihintayin ko po siya.
+Bea (AI): Walang anuman po, salamat po sa pagtitiwala; ipapasa ko po agad ang tawag ninyo.
+Customer: Salamat po, Bea. Naghihintay po ako.
+Bea (AI): Nandito na po ang Financial Advisor; maari po ninyong ibahagi kung anong oras po ninyo gustong mag‑setup ng payment.

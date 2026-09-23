@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-09-23T07:24:57.154175Z",
+    "session_id": "PH_Call_03_Grace_Period_Lapse",
+    "role": "user",
+    "content": "Magandang araw po, Bea.  Nakak-expire po yung debit card ko, kaya hindi na deduct yung premium.  Pwede po bang malaman kung ilang araw pa ang grace period, at magbabayad na lang po ako through online banking ngayon?  Salamat po, Bea.  Sige, gagawin ko na agad ang online payment, paki-connect po ako sa financial advisor para matulungan sa set-up.  Maraming salamat po, Bea.  Hihintayin ko po siya.  Salamat po, Bea.  Naghihintay po ako.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:24:58.364171Z",
+    "session_id": "PH_Call_03_Grace_Period_Lapse",
+    "role": "assistant",
+    "content": "Grace period po ay 30 araw mula sa expiry ng debit card, kaya pwede po kayong magbayad through online banking ngayon; i-connect ko po kayo agad sa Financial Advisor ng inyong branch para sa set‑up. Salamat po!",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

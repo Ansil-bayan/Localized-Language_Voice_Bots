@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-09-23T06:33:38.562818Z",
+    "session_id": "PH_Call_01",
+    "role": "user",
+    "content": "Ito ay isang dataset ng mga audio ng bosses na maaremang gamitan para sa pagsasanay ng Artificial Intelligence AI.  Ang bawat recording ay maingat na inihanda upang matiak ang malino na pagbigas, natural na ritmo,  at pareparehong kalidad ng audio para sa mga aplikasyon ng machine learning.  Umahasa ang mga AI system sa malaking dami ng dikalidad na voice data upang mapahusay ang kanilang performance.  Sa pamamagitan ng malinaw at natural na pagrerecord ng mga pangonggusap na ito,  nakakatulong ka sa pagbuo ng masmahusay na teknolohea sa paggilala ng bosses, speech recognition.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:33:39.796871Z",
+    "session_id": "PH_Call_01",
+    "role": "assistant",
+    "content": "Salamat po sa pagbabahagi ng impormasyon; kung may katanungan po kayo tungkol sa aming insurance products o kung paano po ito makakatulong sa inyong financial planning, handa",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:44:30.622614Z",
+    "session_id": "PH_Call_01",
+    "role": "user",
+    "content": "Ito ay isang dataset ng mga audio ng bosses na maaremang gamitan para sa pagsasanay ng Artificial Intelligence AI.  Ang bawat recording ay maingat na inihanda upang matiak ang malino na pagbigas, natural na ritmo,  at pareparehong kalidad ng audio para sa mga aplikasyon ng machine learning.  Umahasa ang mga AI system sa malaking dami ng dikalidad na voice data upang mapahusay ang kanilang performance.  Sa pamamagitan ng malinaw at natural na pagrerecord ng mga pangonggusap na ito,  nakakatulong ka sa pagbuo ng masmahusay na teknolohea sa paggilala ng bosses, speech recognition.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:44:31.890746Z",
+    "session_id": "PH_Call_01",
+    "role": "assistant",
+    "content": "Salamat po sa pagbabahagi, pero maaari po ba kitang matulungan sa inyong banking o insurance needs? Ho, an",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:02:33.216539Z",
+    "session_id": "PH_Call_01",
+    "role": "user",
+    "content": "Ito ay isang dataset ng mga audio ng bosses na maaremang gamitan para sa pagsasanay ng Artificial Intelligence AI.  Ang bawat recording ay maingat na inihanda upang matiak ang malino na pagbigas, natural na ritmo,  at pareparehong kalidad ng audio para sa mga aplikasyon ng machine learning.  Umahasa ang mga AI system sa malaking dami ng dikalidad na voice data upang mapahusay ang kanilang performance.  Sa pamamagitan ng malinaw at natural na pagrerecord ng mga pangonggusap na ito,  nakakatulong ka sa pagbuo ng masmahusay na teknolohea sa paggilala ng bosses, speech recognition.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:02:34.247838Z",
+    "session_id": "PH_Call_01",
+    "role": "assistant",
+    "content": "Pasensya po, pero ito po ay tawag para sa aming Bancassurance services; may maitutulong po ba kami sa inyong insurance needs?",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

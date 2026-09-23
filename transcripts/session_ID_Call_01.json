@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-09-23T06:33:56.842871Z",
+    "session_id": "ID_Call_01",
+    "role": "user",
+    "content": "Ini adalah data set audio suara yang dapat Anda gunakan untuk keperluan pelatihan kecedasan buatan, AI.  Setiap rekaman telah dipersiapkan dengan cermat untuk memastikan pelafalan yang jelas, ritme yang alami,  dan kualitas audio yang konsisten untuk aplikasi pembelajaran mesin.  Sistem kecedasan buatan bergantung pada sejumlah besar data suara berkualitas tinggi untuk meningkatkan kinerjanya.  Dengan merekam kalimat-kalimat ini secara jelas dan alami, Anda berkontribusi pada pengembangan teknologi pengenalan suara yang lebih baik.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:33:58.159453Z",
+    "session_id": "ID_Call_01",
+    "role": "assistant",
+    "content": "",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:44:51.446110Z",
+    "session_id": "ID_Call_01",
+    "role": "user",
+    "content": "Ini adalah data set audio suara yang dapat Anda gunakan untuk keperluan pelatihan kecedasan buatan, AI.  Setiap rekaman telah dipersiapkan dengan cermat untuk memastikan pelafalan yang jelas, ritme yang alami,  dan kualitas audio yang konsisten untuk aplikasi pembelajaran mesin.  Sistem kecedasan buatan bergantung pada sejumlah besar data suara berkualitas tinggi untuk meningkatkan kinerjanya.  Dengan merekam kalimat-kalimat ini secara jelas dan alami, Anda berkontribusi pada pengembangan teknologi pengenalan suara yang lebih baik.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T06:44:52.860180Z",
+    "session_id": "ID_Call_01",
+    "role": "assistant",
+    "content": "",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:02:51.087382Z",
+    "session_id": "ID_Call_01",
+    "role": "user",
+    "content": "Ini adalah data set audio suara yang dapat Anda gunakan untuk keperluan pelatihan kecedasan buatan, AI.  Setiap rekaman telah dipersiapkan dengan cermat untuk memastikan pelafalan yang jelas, ritme yang alami,  dan kualitas audio yang konsisten untuk aplikasi pembelajaran mesin.  Sistem kecedasan buatan bergantung pada sejumlah besar data suara berkualitas tinggi untuk meningkatkan kinerjanya.  Dengan merekam kalimat-kalimat ini secara jelas dan alami, Anda berkontribusi pada pengembangan teknologi pengenalan suara yang lebih baik.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:02:52.162409Z",
+    "session_id": "ID_Call_01",
+    "role": "assistant",
+    "content": "Maaf, Mas/Bpak, untuk saat ini saya hanya dapat membantu terkait informasi atau pengingat pembayaran pembiayaan. Jika ada pertanyaan lain, silakan hubungi layanan kami yang sesuai. Terima kasih.",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-09-23T07:24:12.924631Z",
+    "session_id": "ID_Call_03_Hardship_Janji_Bayar",
+    "role": "user",
+    "content": "Selamat siang, Mas Budi. Terima kasih. Kami juga sehat.  Saat ini beberapa klien kami masih terlambat bayar, jadi angsuran kami agak terhambat, apakah ada denda, dan kami berjanji transfer via Virtual Account jumat ini.  Baik, Mas Budi. Terima kasih atas penjelasannya.  Kami akan transfer ke Virtual Account yang Bapak kirimkan sebelum jumat sehingga tidak ada penambahan denda.  Terima kasih banyak, Mas Budi. Kami akan pastikan transfernya selesai sebelum jumat.  Jika ada pertanyaan, kami akan hubungi kembali.  Selamat siang. Terima kasih, Mas Budi. Kami juga berharap semuanya lancar.  Selamat siang.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:24:13.930071Z",
+    "session_id": "ID_Call_03_Hardship_Janji_Bayar",
+    "role": "assistant",
+    "content": "Terima kasih, Mas/Bpak. Kami sudah kirimkan detail Virtual Account, dan pembayaran sebelum Jumat akan menghindari denda. Selamat siang, semoga lancar.",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Bea (AI): Hello po, Ma'am Sheila! Good morning. Si Bea po ito galing sa inyong bank partner.
+Customer: Good morning, Bea. I’m furious about this sudden rider charge that raised my premium—transfer me to a human agent right now, please.
+Bea (AI): Ico-connect ko na po kayo sa ating Senior Financial Specialist para ma-assist po kayo nang maayos. Please hold the line for a moment po.
+[SYSTEM EVENT]: SIP_TRANSFER_TRIGGERED -> Transferred to Human Agent

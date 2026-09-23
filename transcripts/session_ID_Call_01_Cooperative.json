@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-09-23T07:23:28.283191Z",
+    "session_id": "ID_Call_01_Cooperative",
+    "role": "user",
+    "content": "Selama pagi, Mas Budi, ini riski.  Baik, saya akan transfer angsuran Rp850.000 lewat BCA Virtual Account dalam 2 hari ke depan.  Siap, Mas Budi.  Terima kasih, akan saya lakukan secepatnya.  Terima kasih, Mas Budi.  Selamat beraktifitas juga.  Sama-sama, Mas Budi.  Selamat melanjutkan hari.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:23:29.181739Z",
+    "session_id": "ID_Call_01_Cooperative",
+    "role": "assistant",
+    "content": "Terima kasih, Riski. Kami tunggu pembayaran via VA BCA dalam 2 hari ke depan. Selamat beraktivitas!",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

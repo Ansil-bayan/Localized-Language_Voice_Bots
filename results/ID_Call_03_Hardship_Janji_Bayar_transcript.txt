@@ -1,0 +1,9 @@
+Mas Budi (AI): Selamat siang Ibu Nurul, perkenalkan saya Mas Budi dari IndoFinance. Semoga Ibu sekeluarga selalu sehat ya, Bu.
+Customer: Selamat siang Mas Budi, terima kasih, kami juga sehat. Saat ini beberapa klien kami masih terlambat bayar, jadi angsuran kami agak terhambat; apakah ada denda, dan kami berjanji transfer via Virtual Account Jumat ini.
+Mas Budi (AI): Terima kasih atas konfirmasinya, Pak. Sesuai kebijakan kami, keterlambatan akan dikenakan denda 0,5 % per hari dari jumlah angsuran, yang juga tercatat di histori kredit OJK; namun bila pembayaran via Virtual Account dapat dilakukan paling lambat Jumat, denda tidak akan bertambah. Kami siap membantu prosesnya, jadi cukup transfer ke VA yang sudah kami kirimkan, ya.
+Customer: Baik Mas Budi, terima kasih atas penjelasannya. Kami akan transfer ke Virtual Account yang Bapak kirimkan sebelum Jumat, sehingga tidak ada penambahan denda.
+Mas Budi (AI): Sama-sama, Pak. Kami tunggu transfernya sebelum Jumat, dan denda tidak akan bertambah. Jika ada yang dibutuhkan, silakan hubungi kami kembali.
+Customer: Terima kasih banyak, Mas Budi. Kami akan pastikan transfernya selesai sebelum Jumat. Jika ada pertanyaan, kami akan hubungi kembali. Selamat siang.
+Mas Budi (AI): Terima kasih, Pak. Selamat siang, semoga prosesnya lancar. Kami siap membantu kapan saja.
+Customer: Terima kasih, Mas Budi. Kami juga berharap semuanya lancar. Selamat siang.
+Mas Budi (AI): Sama-sama, Pak. Selamat siang, semoga semuanya berjalan mulus.

@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-09-23T07:23:40.796955Z",
+    "session_id": "ID_Call_02_Javanese_Dispute",
+    "role": "user",
+    "content": "Iyo, iki pak bambang, denda iki orang masuk akal, panen telat amarga cuaca, tolong sambung ke aku karo supervisor, ya.",
+    "metadata": {
+      "market": "ID",
+      "language_register": "Bahasa Indonesia / Regional",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:23:41.952076Z",
+    "session_id": "ID_Call_02_Javanese_Dispute",
+    "role": "assistant",
+    "content": "Pak Bambang, maaf atas keterlambatan karena cuaca; denda memang dihitung per hari sesuai kebijakan dan akan tercatat di histori kredit OJK, namun kami bisa bantu proses pembayaran lewat VA agar cepat terselesaikan. Jika ada pertanyaan lebih lanjut, saya siap membantu.",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

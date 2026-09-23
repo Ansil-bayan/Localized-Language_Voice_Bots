@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-09-23T07:24:39.187582Z",
+    "session_id": "PH_Call_02_Objection_Escalation",
+    "role": "user",
+    "content": "Good morning, Bea.  I'm furious about this sudden rider charge that raced in my premium. Transfer me to a human agent right now, please.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:24:40.307763Z",
+    "session_id": "PH_Call_02_Objection_Escalation",
+    "role": "assistant",
+    "content": "Good morning po, naiintindihan ko po ang frustration niyo—maaari po ba kitang tulungan na i-review ang rider charge at tingnan kung may alternative na mas swak po sa budget ninyo?​",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]

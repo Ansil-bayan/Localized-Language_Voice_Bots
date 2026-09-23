@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2026-09-23T07:13:49.825603Z",
+    "session_id": "PH_Call_01_Cooperative",
+    "role": "user",
+    "content": "Si Marco Cruz ito. Ano po ang mai-tutulong ninyo?  Sounds interesting. Puede po bang malaman kung magkano yung monthly premium?  Ok po, salamat. Puede po akong mag-schedule ng appointment with a financial advisor para mapag-usapan ito ng mas-detaliado.  Mas maganda po kung sa biernes ng umaga, mga sampu oras less sa branch sa Makati.  Salamat po.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:24:28.848370Z",
+    "session_id": "PH_Call_01_Cooperative",
+    "role": "user",
+    "content": "Ako po si Marco Cruz. Ano po ang mai-tutulung ko?  Sure po, interested ako. Pwede po bang malaman kung magkano ang monthly premium?  Ok po, medyo mataas yun para sa budget ko. May mas mababang premium option ba tayo?  Sige po, interesado ako, magschedyo na lang po tayo ng meeting with the financial advisor.",
+    "metadata": {
+      "market": "PH",
+      "language_register": "Taglish",
+      "is_final": true
+    }
+  },
+  {
+    "timestamp": "2026-09-23T07:24:30.003499Z",
+    "session_id": "PH_Call_01_Cooperative",
+    "role": "assistant",
+    "content": "Salamat po, Marco! Ise-set po namin ang appointment with a licensed Financial Advisor sa branch na gusto nyo—kayo po po kung anong araw at oras ang convenient, at ipapadala po namin agad ang confirmation.",
+    "metadata": {
+      "model": "openai/gpt-oss-120b"
+    }
+  }
+]
